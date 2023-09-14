@@ -1,0 +1,17 @@
+#day-world{
+    color: yellowgreen;
+}
+#night-world{
+    color: cornflowerblue;
+}
+*{
+    text-align: center;
+}
+#img1{
+    border: 10px dotted blue;
+    padding: 10px;
+}
+#img2{
+    border:10px dotted red;
+    padding: 10px;
+}
